@@ -11,7 +11,7 @@
     "declaration": false,
     "sourceMap": false,
     "inlineSourceMap": true,
-    "outDir": "./.medusa/server",
+    "outDir": "./dist",
     "rootDir": "./",
     "baseUrl": ".",
     "jsx": "react-jsx",
